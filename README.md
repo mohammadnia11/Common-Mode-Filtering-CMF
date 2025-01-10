@@ -14,3 +14,6 @@ Once the manuscript is published, please cite the associated research article if
 ---
 
 Stay tuned for updates!
+
+
+Cite the code :  [![DOI](https://zenodo.org/badge/914178071.svg)](https://doi.org/10.5281/zenodo.14629137)
