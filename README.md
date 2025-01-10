@@ -1,4 +1,5 @@
 # Common Mode Filtering for InSAR Time Series
+Cite the code :  [![DOI](https://zenodo.org/badge/914178071.svg)](https://doi.org/10.5281/zenodo.14629137)
 
 This repository will host the code for the **Common Mode Filtering** method, developed to mitigate atmospheric effects in InSAR time series analysis. The method improves deformation measurements in small-scale areas (~16 km²) by reducing correlated noise and enhancing the detection of subtle geophysical signals.
 
@@ -16,4 +17,4 @@ Once the manuscript is published, please cite the associated research article if
 Stay tuned for updates!
 
 
-Cite the code :  [![DOI](https://zenodo.org/badge/914178071.svg)](https://doi.org/10.5281/zenodo.14629137)
+
