@@ -8,7 +8,7 @@ The Common Mode Filtering approach is adapted from GNSS studies and has been suc
 
 
 ## Citation
-Mohammadnia, M., Yip, M. W., Webb, A. A. G., & González, P. J. (2025). Spontaneous transient summit uplift at Taftan volcano (Makran subduction arc) imaged using an InSAR common-mode filtering method (No. EGU25-7970). Copernicus Meetings.
+Mohammadnia, M. W. Yip, A. Alexander, G. Webb, and P. J. González. (2025b).Spontaneous Transient Summit Uplift at Taftan Volcano (Makran Subduction Arc) Imaged Using an InSAR Common-Mode Filtering Method.  Geophysical Research Letters. https://doi.org/10.1029/2025GL114853
 DOI: https://doi.org/10.1029/2025GL114853
 
 ---
