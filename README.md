@@ -6,8 +6,6 @@ This repository will host the code for the **Common Mode Filtering** method, dev
 ## About the Method
 The Common Mode Filtering approach is adapted from GNSS studies and has been successfully applied to InSAR data. It significantly reduces the standard deviation (STD) of uncorrected time series and, when combined with atmospheric corrections (e.g., ERA5), achieves up to 50% improvement in signal precision. This method is particularly effective for geohazard monitoring, including volcanic and tectonic studies.
 
-## Code Availability
-The code for this method will be uploaded here **after the associated research manuscript is accepted for publication**. Until then, this repository will serve as a placeholder with updates on the progress of the release.
 
 ## Citation
 Mohammadnia, M., Yip, M. W., Webb, A. A. G., & González, P. J. (2025). Spontaneous transient summit uplift at Taftan volcano (Makran subduction arc) imaged using an InSAR common-mode filtering method (No. EGU25-7970). Copernicus Meetings.
